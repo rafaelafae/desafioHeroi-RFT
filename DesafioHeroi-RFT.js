@@ -22,4 +22,3 @@ let nickname3 = "Kenshin";
 let tipoNick3 = "anão artesão";
 let xpNick3 = 10795;
 let warNick3 = false;
-
